@@ -24,7 +24,7 @@ Binary search is an algorithm that we can use to find the value of an element wi
 
    ```js
    array = [6, 7, 8, 9, 10, 14, 15, 17, 19, 22, 23, 25, 30]
-   binary_search(array, 2) => true
+   binary_search(array, 22) => true
    binary_search(array, 13) => false
    ```
 
