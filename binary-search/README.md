@@ -9,3 +9,5 @@ Binary search is an algorithm that we can use to find the value of an element wi
   *The binary search algorithm begins by comparing the target value to the value of the middle element of the sorted array.
 
   *If the target value is equal to the middle element's value, then the position is returned and the search is finished.
+
++ If the target value is equal to the middle element's value, then the position is returned and the search is finished.
